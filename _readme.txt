@@ -41,6 +41,8 @@ Have fun with it. I hope you like the icons.
 
 Thanks to Christopher Adjei (www.boffer.net), who made an application for me with processing (www.processing.org), for mass editing metadata of SVG- files.
 
+And many thanks to Alessandro Gubitosi (http://www.gotanotherway.com/) for developing the PICOL generator and permanently working on great tools for making PICOL more accessible.
+
 /////////////////////////////////////////////////////////
 All available icons can be found on 
 http://blog.picol.org/downloads/icons
