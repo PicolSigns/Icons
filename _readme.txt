@@ -20,6 +20,10 @@ This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 You are free:
 - to Share — to copy, distribute and transmit the work
 - to Remix — to adapt the work
+You are free to:
+- Share — copy and redistribute the material in any medium or format 
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially. 
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following conditions:
 - Attribution – Include a link to picol.org or blog.picol.org in your credits or any fitting place.
