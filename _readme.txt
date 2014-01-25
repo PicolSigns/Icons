@@ -9,6 +9,8 @@ E-Mail: dropaline@picol.org
 
 Date: 16-03-2009
 Desc.: Pre-release of the PICOL Icons (SVG-Version)
+Date: 01-20-2014
+Desc.: Release of the PICOL Icons (SVG-Version)
 
 /////////////////////////////////////////////////////////
 
