@@ -17,11 +17,13 @@ PICOL is free to use and open to alter.
 
 ![picol license cc](http://picol.org/images/cc_liscence.png)
 
-Except otherwise noted, the content of this site and all icons are licensed under a [Creative Commons-License BY-SA](http://www.creativecommons.org/licenses/by-sa/3.0/).<br />
 Except otherwise noted, the content of this site and all icons are licensed under a [Creative Commons-License BY](http://www.creativecommons.org/licenses/by/3.0/).<br />
 You are free to:<br />
 ![](http://blog.picol.org/wp-content/uploads/2009/03/copy_16.png) SHARE — to copy, distribute and transmit the work<br />
 ![](http://blog.picol.org/wp-content/uploads/2009/03/remix_16.png) REMIX — to adapt the work
+![](http://blog.picol.org/wp-content/uploads/2009/03/copy_16.png) SHARE — copy and redistribute the material in any medium or format<br />
+![](http://blog.picol.org/wp-content/uploads/2009/03/remix_16.png) ADAPT — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following conditions:<br />
 ![](http://blog.picol.org/wp-content/uploads/2009/03/user_full_16.png) ATTRIBUTION – Include a link to picol.org or blog.picol.org in your credits or any fitting place.<br />
