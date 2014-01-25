@@ -14,9 +14,6 @@ Desc.: Release of the PICOL Icons (SVG-Version)
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/
 
-You are free:
-- to Share — to copy, distribute and transmit the work
-- to Remix — to adapt the work
 You are free to:
 - Share — copy and redistribute the material in any medium or format 
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially. 
