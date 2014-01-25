@@ -7,7 +7,6 @@ Designer: Melih Bilgil
 URL: http://www.picol.org
 E-Mail: dropaline@picol.org
 
-Date: 16-03-2009
 Date: 01-20-2014
 Desc.: Release of the PICOL Icons (SVG-Version)
 
