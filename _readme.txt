@@ -8,7 +8,6 @@ URL: http://www.picol.org
 E-Mail: dropaline@picol.org
 
 Date: 16-03-2009
-Desc.: Pre-release of the PICOL Icons (SVG-Version)
 Date: 01-20-2014
 Desc.: Release of the PICOL Icons (SVG-Version)
 
@@ -28,6 +27,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Under the following conditions:
 - Attribution – Include a link to picol.org or blog.picol.org in your credits or any fitting place.
 - Share Alike – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license.
+- Attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 /////////////////////////////////////////////////////////
 
